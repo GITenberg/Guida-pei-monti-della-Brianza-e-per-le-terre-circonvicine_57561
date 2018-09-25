@@ -1,0 +1,27 @@
+_repo: Guida-pei-monti-della-Brianza-e-per-le-terre-circonvicine_57561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cantù, Ignazio
+    alias: Cantu, Ignazio
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '49456'
+    url: http://www.gutenberg.org/2009/agents/49456
+    wikipedia: https://it.wikipedia.org/wiki/Ignazio_Cant%C3%B9
+description: ''
+gutenberg_bookshelf: IT Geografia
+gutenberg_issued: '2018-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57561'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Brianza (Italy) -- Description and travel'
+- GITenberg
+title: Guida pei monti della Brianza e per le terre circonvicine
+url: http://www.gutenberg.org/ebooks/57561
